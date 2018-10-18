@@ -1,3 +1,3 @@
 # Hello-World
 Trying to learm data science from the scratch....
-Im 31 old and im very excited to learn advanced analytics skills 
+Im 31 old and im very excited to learn advanced analytics skills. Here i'll share some of my notebooks. 
